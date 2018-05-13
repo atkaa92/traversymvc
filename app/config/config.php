@@ -1,6 +1,6 @@
 <?php
   define('APPROOT', dirname(dirname(__FILE__))) ;
-  define('URLROOT', 'http://mvc.local/') ;
+  define('URLROOT', '_YOUR_SITENAME_') ;
   define('SITENAME', 'My MVC') ;
 
   define('DB_HOST', 'localhost');
